@@ -1,4 +1,4 @@
-# Sales-Trend-Visualization
+# Sales-Trend-Visualization   - InternID:CITS1913
 A Power BI dashboard for visualizing sales trends and tracking sales performance across different regions through interactive reports, KPIs, and data-driven insights.
 
 Overview
@@ -6,15 +6,23 @@ Overview
 Sales Trend Visualization is a Power BI project designed to analyze and monitor sales performance across different regions. The dashboard transforms raw sales data into meaningful visual insights, helping businesses identify trends, compare regional performance, and make data-driven decisions.
 
 Features
+
 📈 Sales trend analysis over time
+
 🌍 Regional sales performance tracking
+
 💰 Revenue and profit monitoring
+
 📊 Interactive charts and visualizations
+
 🎯 Key Performance Indicator (KPI) tracking
+
 🔍 Dynamic filtering and drill-down analysis
+
 📋 Data-driven insights for business decision-making
 
 Objectives
+
 Analyze sales performance across multiple regions.
 Identify top-performing and underperforming markets.
 Monitor revenue trends and business growth.
@@ -22,9 +30,13 @@ Provide actionable insights through interactive dashboards.
 Support strategic planning with visual analytics.
 
 Technologies Used
+
 Power BI – Dashboard creation and visualization
+
 Power Query – Data cleaning and transformation
+
 DAX (Data Analysis Expressions) – Calculated measures and KPIs
+
 Excel/CSV Dataset – Data source
 
 Dashboard Insights
@@ -37,4 +49,5 @@ Monitor business KPIs and performance metrics.
 Identify opportunities for growth and optimization.
 
 Conclusion
+
 This project demonstrates the use of Power BI to create an interactive and insightful sales analytics dashboard. By visualizing sales trends and regional performance, it helps stakeholders gain a better understanding of business performance and make informed decisions.
